@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+/dist/
+/.nuxt/
+/*.log
+/*.lock
+/npm-debug.log*
+yarn.lock
+
+# Environment variables
+.env*
